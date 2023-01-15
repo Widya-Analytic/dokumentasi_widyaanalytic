@@ -2,7 +2,7 @@ Cekbrand
 ++++++++
 
 .. toctree::
-  :maxdepth: 6
+  :maxdepth: 7
   
   
   cekbrand/cekbrandroot
@@ -13,3 +13,4 @@ Cekbrand
   cekbrand/indexcekbrandsplashscreen
   cekbrand/indexcekbrandcallback
   cekbrand/indexcekbrandonboarding
+  cekbrand/indexcekbranddownload
