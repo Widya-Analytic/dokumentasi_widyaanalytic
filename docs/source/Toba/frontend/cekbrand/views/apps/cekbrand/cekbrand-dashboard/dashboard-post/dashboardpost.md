@@ -10,7 +10,7 @@ Didalam Cekbrand root views ini terdapat beberapa component penyusun, berikut co
 - **`DashboardPostCategory.vue`** pada path file
 ```../frontend/src/views/apps/cekbrand/cekbrand-dashboard/dashboard-post/DashboardPostCategory.vue```
 - **`DashboardPostMedia.vue`** pada path file ```../frontend/src/views/apps/cekbrand/cekbrand-dashboard/dashboard-post/DashboardPostMedia.vue```
-- **`DashboardPostMediaDetail.vue`** pada path file ```../frontend/src/views/apps/cekbrand/cekbrand-dashboard/dashboard-post/DashboardPostMediaDetail.vue```
+
 
 ## Method
 Terdapat function pada Dashboard Post views dengan tujuan, seperti berikut:
