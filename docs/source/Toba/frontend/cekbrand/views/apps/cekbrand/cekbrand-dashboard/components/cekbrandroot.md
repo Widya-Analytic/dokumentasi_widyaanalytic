@@ -1,4 +1,4 @@
-# Cekbrand Roots Views
+# Cekbrand Dashboard Component Views
 
 Cekbrand root views memiliki path seperti berikut:
 

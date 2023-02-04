@@ -3,13 +3,20 @@
 
 ## Path
 Halaman Dashboard Post Views memiliki path seperti berikut:
-```../frontend/src/views/apps/cekbrand/cekbrand-dashboard/dashboard-post/DashboardPost.vue```
+```
+../frontend/src/views/apps/cekbrand/cekbrand-dashboard/dashboard-post/DashboardPost.vue
+```
 
 ## Child
 Didalam Cekbrand root views ini terdapat beberapa component penyusun, berikut component penyusun yang ada pada Dashboard Post views:
 - **`DashboardPostCategory.vue`** pada path file
-```../frontend/src/views/apps/cekbrand/cekbrand-dashboard/dashboard-post/DashboardPostCategory.vue```
-- **`DashboardPostMedia.vue`** pada path file ```../frontend/src/views/apps/cekbrand/cekbrand-dashboard/dashboard-post/DashboardPostMedia.vue```
+```
+../frontend/src/views/apps/cekbrand/cekbrand-dashboard/dashboard-post/DashboardPostCategory.vue
+```
+- **`DashboardPostMedia.vue`** pada path file 
+```
+../frontend/src/views/apps/cekbrand/cekbrand-dashboard/dashboard-post/DashboardPostMedia.vue
+```
 
 
 ## Method
